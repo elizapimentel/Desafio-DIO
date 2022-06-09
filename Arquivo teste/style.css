@@ -1,0 +1,14 @@
+p {
+    padding: 15px;
+    background: #CFC;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: sans-serif;
+   
+    
+  }
+
+  
+  .hidden {
+    display: flex;
+  }
